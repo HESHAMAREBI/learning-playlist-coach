@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Learning Playlist Coach",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "description": "Track YouTube playlist progress and prepare contextual questions for any AI Agent.",
   "permissions": [
     "storage",
